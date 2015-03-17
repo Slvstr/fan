@@ -10,7 +10,10 @@
 }
 
 .fan {
-  width: 50%;
-  margin: 0 auto;
-  -webkit-animation: spin 1s infinite linear;
+  margin: 100px auto;
+  -webkit-animation: spin 500ms infinite linear;
+}
+
+.fan img {
+  max-width: 75%;
 }
